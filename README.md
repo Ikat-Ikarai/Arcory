@@ -1,2 +1,2 @@
 # Arcory
-An Arcaea fan-made webpage
+A fan-made webpage of Arcaea.
